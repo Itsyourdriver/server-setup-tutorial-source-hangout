@@ -1,2 +1,3 @@
-# tixte-community-knowledgebase
-community made knowledgebase/faq for tixte
+# Unofficial knowledgebase/faq for tixte
+
+please head to the wiki section to view more
