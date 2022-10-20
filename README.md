@@ -1,3 +1,4 @@
-# Unofficial knowledgebase/faq for tixte
+server setup for someone's thing
 
-please head to the wiki section to view more
+
+not for public but I can't share it any other easy way /shrug
