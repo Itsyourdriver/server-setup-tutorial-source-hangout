@@ -19,13 +19,24 @@
 
 ## Quick start
 
-Some text
+# Startup Guide
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+## Downloads
+To start, please download the newest release of Source Hangout (avalible in the discord server)
+And [playit.gg](https://playit.gg/download) if you do not want to port forward your router (not shown here)
 
 
+Once you have those, we can start.
+Navigate to your malmetro folder `C:\Program Files (x86)\Steam\steamapps\common\sourcemods\MalMetro`
+Create a folder in there named start.bat with the following code:
+https://pastes.driver.fyi/ZClfptFuSl (may change so double check your filenames!)
+Now, open playit, and follow the steps to setup a UDP port for 27015.
+Copy the IP and connect via the console. 
+~ to open it, then type connect *your playit.gg ip with the port, etc: name.playit.gg:28394*
+Make sure your server is runing, and also double check your firewall.
+
+
+That's all. You (should) have your server up and running! If you want more info, I am willing to help you with any questions. And if you have any support you need with setting up a server, head to the discord to get said support.
 ## Bugs and feature requests
 
 Have a bug or a feature request? Please suggest these in the source hangout discord server.
