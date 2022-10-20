@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+    <img src="https://user-images.githubusercontent.com/73563507/197061822-ef1c9c56-399d-4afd-a836-347d98bb30e9.png" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Source Hangout Setup Tutorial</h3>
 
 
 
@@ -15,6 +15,7 @@
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Creators](#creators)
 - [Thanks](#thanks)
+
 
 
 ## Quick start
