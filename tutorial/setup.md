@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://user-images.githubusercontent.com/73563507/197061822-ef1c9c56-399d-4afd-a836-347d98bb30e9.png" alt="Logo" width=72 height=72>
+    <img src="https://user-images.githubusercontent.com/73563507/197061822-ef1c9c56-399d-4afd-a836-347d98bb30e9.png" alt="Logo" width=500 height=500>
   </a>
 
   <h3 align="center">Source Hangout Setup Tutorial</h3>
