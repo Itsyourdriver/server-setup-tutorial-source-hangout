@@ -30,7 +30,7 @@ And [playit.gg](https://playit.gg/download) if you do not want to port forward y
 Once you have those, we can start.
 Navigate to your malmetro folder `C:\Program Files (x86)\Steam\steamapps\sourcemods\MalMetro`
 Create a folder in there named start.bat with the following code:
-https://pastes.driver.fyi/ZClfptFuSl (may change so double check your filenames!)
+[https://pastes.driver.fyi/ZClfptFuSl](https://pastes.driver.fyi/OobnFbVkOa) (may change so double check your filenames!)
 Now, open playit, and follow the steps to setup a UDP port for 27015.
 Copy the IP and connect via the console. 
 ~ to open it, then type connect *your playit.gg ip with the port, etc: name.playit.gg:28394*
@@ -52,9 +52,8 @@ Have a bug or a feature request? Please suggest these in the source hangout disc
 
 - <https://github.com/seagull101>
 
-**Server Setup Creator**
+**The Creator Of This Guide**
 
-- <https://github.com/Itsyourdriver>
 - <https://itsyourdriver.xyz>
 
 ## Thanks
