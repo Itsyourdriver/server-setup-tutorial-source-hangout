@@ -28,7 +28,7 @@ And [playit.gg](https://playit.gg/download) if you do not want to port forward y
 
 
 Once you have those, we can start.
-Navigate to your malmetro folder `C:\Program Files (x86)\Steam\steamapps\common\sourcemods\MalMetro`
+Navigate to your malmetro folder `C:\Program Files (x86)\Steam\steamapps\sourcemods\MalMetro`
 Create a folder in there named start.bat with the following code:
 https://pastes.driver.fyi/ZClfptFuSl (may change so double check your filenames!)
 Now, open playit, and follow the steps to setup a UDP port for 27015.
