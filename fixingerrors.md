@@ -1,8 +1,8 @@
-# Fixing Errors
+<h1> Fixing Errors </h1>
 
 
 
-## Common Error #1:
+# Common Error #1:
 Directories do not match
 
 
