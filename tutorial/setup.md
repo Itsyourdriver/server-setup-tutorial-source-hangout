@@ -29,7 +29,7 @@ And [playit.gg](https://playit.gg/download) if you do not want to port forward y
 
 Once you have those, we can start.
 
-Navigate to your malmetro folder `C:\Program Files (x86)\Steam\steamapps\sourcemods\MalMetro`
+Navigate to your source-hangout folder `C:\Program Files (x86)\Steam\steamapps\sourcemods\Source-Hangout`
 
 Create a folder in there named start.bat with the following code:
 https://pastes.driver.fyi/75gYbYDKm4 (may change so double check your filenames!)
